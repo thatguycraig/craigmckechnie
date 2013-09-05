@@ -6,3 +6,5 @@ we now have functioning version control!! So, all this with Vagrant handling the
 VirtualBox... I now have a new workflow in place! And it's EPICCCCCCC!!!!!!
 
 I <3 Dropbox + Vagrant + Git
+
+[test branch]
